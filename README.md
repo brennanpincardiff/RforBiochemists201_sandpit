@@ -48,3 +48,6 @@ Hi, I am Daniel and my favorite protein is the [mitochondrial superoxide dismuta
 
 # Making (late) changes
 Hi, my name is Jonathan and I recently learned about the [major vault protein](https://www.uniprot.org/uniprotkb/Q14764/entry#function)
+
+# Name - Emma
+Hi, I'm Emma and my favourite molecule is [DNA, the blueprint for life](https://symposium.cshlp.org/content/18/123.extract)!
