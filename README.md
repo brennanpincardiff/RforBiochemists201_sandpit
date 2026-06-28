@@ -21,6 +21,8 @@ To play with this sandpit...
 You could also add a link to your R-story if you have made one. 
 Have a go and see how you manage. 
 
+# New Person
+Hello, my name is Nico and my favourite protein is DIRAS3
 
 Hello
 
